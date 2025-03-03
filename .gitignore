@@ -1,3 +1,6 @@
+# pwsh:ps-repo-wget 
+# raw:https://raw.githubusercontent.com/ithomas51/python-project-repo/refs/heads/main/.gitattributes
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
