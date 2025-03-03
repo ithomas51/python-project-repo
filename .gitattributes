@@ -1,10 +1,11 @@
+# pwsh:ps-repo-wget 
+# raw:https://raw.githubusercontent.com/ithomas51/python-project-repo/refs/heads/main/.gitattributes
 ##---------------------------------------------------
 # Common .gitattributes
 ##---------------------------------------------------
 # Common settings that generally should always be used with your language specific settings
 
 # Auto detect text files and perform LF normalization
-# https://www.davidlaing.com/2012/09/19/customise-your-gitattributes-to-become-a-git-ninja/
 *           text=auto
 
 #
