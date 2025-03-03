@@ -1,5 +1,5 @@
 # pwsh:ps-repo-wget 
-# raw:https://raw.githubusercontent.com/ithomas51/python-project-repo/refs/heads/main/.gitattributes
+# raw:https://raw.githubusercontent.com/ithomas51/python-project-repo/refs/heads/main/.gitignore
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
